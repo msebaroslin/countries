@@ -8,3 +8,5 @@ India
  - Trichy
  - Karaikudi
 South Africa
+ - Johansburg
+ - Durban
